@@ -1,0 +1,186 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/3fdf28bc/
+BACKLIGHT_LEDS	keymap.c	/^#define BACKLIGHT_LEDS /;"	d	file:
+CLED_0	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_1	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_2	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_3	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_4	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_5	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_6	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_7	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_8	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_9	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_A	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_APP	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_B	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_BSLS	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_BSPC	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_C	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_CAPS	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_COMM	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_D	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_DEL	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_DOT	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_DOWN	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_E	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_END	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_ENT	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_EQL	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_ESC	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F1	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F10	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F11	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F12	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F2	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F3	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F4	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F5	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F6	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F7	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F8	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_F9	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_FN	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_G	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_GRV	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_H	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_HOME	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_I	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_INS	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_J	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_K	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_L	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_LALT	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_LBRC	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_LCTL	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_LEFT	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_LGUI	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_LSFT	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_M	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_MINS	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_N	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_O	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_P	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_PAUS	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_PGDN	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_PGUP	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_PSCR	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_Q	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_QUOT	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_R	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_RALT	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_RBRC	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_RCTL	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_RGHT	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_RSFT	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_S	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_SCLN	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_SLCK	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_SLSH	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_SPC	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_T	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_TAB	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_U	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_UP	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_V	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_W	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_X	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_Y	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CLED_Z	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	e	enum:CUSTOM_LEDS	file:
+CUSTOM_LEDS	keymap.c	/^enum CUSTOM_LEDS { CLED_ESC=0, CLED_F1=1, CLED_F2=2, CLED_F3=3, CLED_F4=4, CLED_F5=5, CLED_F6=6,/;"	g	file:
+Credits	endgame-readme.md	/^## Credits$/;"	s
+DBG_KBD	keymap.c	/^	DBG_KBD,               \/\/DEBUG Toggle Keyboard Prints$/;"	e	enum:ctrl_keycodes	file:
+DBG_MOU	keymap.c	/^	DBG_MOU,               \/\/DEBUG Toggle Mouse Prints$/;"	e	enum:ctrl_keycodes	file:
+DBG_MTRX	keymap.c	/^	DBG_MTRX,              \/\/DEBUG Toggle Matrix Prints$/;"	e	enum:ctrl_keycodes	file:
+DBG_TOG	keymap.c	/^	DBG_TOG,			   \/\/DEBUG Toggle On \/ Off$/;"	e	enum:ctrl_keycodes	file:
+DISABLE_RGB_MATRIX_BAND_PINWHEEL_SAT	config.h	/^#define DISABLE_RGB_MATRIX_BAND_PINWHEEL_SAT$/;"	d
+DISABLE_RGB_MATRIX_BAND_PINWHEEL_VAL	config.h	/^#define DISABLE_RGB_MATRIX_BAND_PINWHEEL_VAL$/;"	d
+DISABLE_RGB_MATRIX_BAND_SPIRAL_SAT	config.h	/^#define DISABLE_RGB_MATRIX_BAND_SPIRAL_SAT$/;"	d
+DISABLE_RGB_MATRIX_BAND_SPIRAL_VAL	config.h	/^#define DISABLE_RGB_MATRIX_BAND_SPIRAL_VAL$/;"	d
+DISABLE_RGB_MATRIX_CYCLE_LEFT_RIGHT	config.h	/^#define DISABLE_RGB_MATRIX_CYCLE_LEFT_RIGHT$/;"	d
+DISABLE_RGB_MATRIX_CYCLE_OUT_IN	config.h	/^#define DISABLE_RGB_MATRIX_CYCLE_OUT_IN$/;"	d
+DISABLE_RGB_MATRIX_CYCLE_OUT_IN_DUAL	config.h	/^#define DISABLE_RGB_MATRIX_CYCLE_OUT_IN_DUAL$/;"	d
+DISABLE_RGB_MATRIX_CYCLE_PINWHEEL	config.h	/^#define DISABLE_RGB_MATRIX_CYCLE_PINWHEEL$/;"	d
+DISABLE_RGB_MATRIX_CYCLE_SPIRAL	config.h	/^#define DISABLE_RGB_MATRIX_CYCLE_SPIRAL$/;"	d
+DISABLE_RGB_MATRIX_CYCLE_UP_DOWN	config.h	/^#define DISABLE_RGB_MATRIX_CYCLE_UP_DOWN$/;"	d
+DISABLE_RGB_MATRIX_DUAL_BEACON	config.h	/^#define DISABLE_RGB_MATRIX_DUAL_BEACON$/;"	d
+DISABLE_RGB_MATRIX_MULTISPLASH	config.h	/^#define DISABLE_RGB_MATRIX_MULTISPLASH$/;"	d
+DISABLE_RGB_MATRIX_RAINBOW_BEACON	config.h	/^#define DISABLE_RGB_MATRIX_RAINBOW_BEACON$/;"	d
+DISABLE_RGB_MATRIX_RAINBOW_MOVING_CHEVRON	config.h	/^#define DISABLE_RGB_MATRIX_RAINBOW_MOVING_CHEVRON$/;"	d
+DISABLE_RGB_MATRIX_RAINBOW_PINWHEELS	config.h	/^#define DISABLE_RGB_MATRIX_RAINBOW_PINWHEELS$/;"	d
+DISABLE_RGB_MATRIX_SOLID_REACTIVE_CROSS	config.h	/^#define DISABLE_RGB_MATRIX_SOLID_REACTIVE_CROSS$/;"	d
+DISABLE_RGB_MATRIX_SOLID_REACTIVE_MULTICROSS	config.h	/^#define DISABLE_RGB_MATRIX_SOLID_REACTIVE_MULTICROSS$/;"	d
+DISABLE_RGB_MATRIX_SOLID_REACTIVE_MULTINEXUS	config.h	/^#define DISABLE_RGB_MATRIX_SOLID_REACTIVE_MULTINEXUS$/;"	d
+DISABLE_RGB_MATRIX_SOLID_REACTIVE_MULTIWIDE	config.h	/^#define DISABLE_RGB_MATRIX_SOLID_REACTIVE_MULTIWIDE$/;"	d
+DISABLE_RGB_MATRIX_SOLID_REACTIVE_NEXUS	config.h	/^#define DISABLE_RGB_MATRIX_SOLID_REACTIVE_NEXUS$/;"	d
+DISABLE_RGB_MATRIX_SOLID_REACTIVE_WIDE	config.h	/^#define DISABLE_RGB_MATRIX_SOLID_REACTIVE_WIDE$/;"	d
+DISABLE_RGB_MATRIX_SPLASH	config.h	/^#define DISABLE_RGB_MATRIX_SPLASH$/;"	d
+DYNAMIC_MACRO_ENABLE	rules.mk	/^DYNAMIC_MACRO_ENABLE = yes		# Dynamic macro recording and play$/;"	m
+FORCE_NKRO	config.h	/^#define FORCE_NKRO$/;"	d
+Features	endgame-readme.md	/^## Features$/;"	s
+Function Layer	endgame-readme.md	/^### Function Layer$/;"	S
+Future Work	endgame-readme.md	/^## Future Work$/;"	s
+HSV_LIMIT_SAT	keymap.c	/^#define HSV_LIMIT_SAT /;"	d	file:
+HSV_LIMIT_VAL	keymap.c	/^#define HSV_LIMIT_VAL /;"	d	file:
+LAYER_BASE	keymap.c	/^	LAYER_BASE = 0,       \/\/ Keys Layout: The main keyboard layout that has all the characters$/;"	e	enum:layout_names	file:
+LAYER_NUM_NAV	keymap.c	/^	LAYER_NUM_NAV,$/;"	e	enum:layout_names	file:
+LAYER_UTILITY	keymap.c	/^	LAYER_UTILITY,$/;"	e	enum:layout_names	file:
+Layers	endgame-readme.md	/^## Layers$/;"	s
+MD_BOOT	keymap.c	/^	MD_BOOT = SAFE_RANGE,  \/\/Restart into bootloader after hold timeout$/;"	e	enum:ctrl_keycodes	file:
+MILLISECONDS_IN_SECOND	keymap.c	/^#define MILLISECONDS_IN_SECOND /;"	d	file:
+MODS_ALT	config.h	/^#define MODS_ALT /;"	d
+MODS_CTRL	config.h	/^#define MODS_CTRL /;"	d
+MODS_SHIFT	config.h	/^#define MODS_SHIFT /;"	d
+Massdrop Ctrl Endgame	endgame-readme.md	/^# Massdrop Ctrl Endgame$/;"	c
+Motivation	endgame-readme.md	/^## Motivation$/;"	s
+Mouse Layer	endgame-readme.md	/^### Mouse Layer$/;"	S
+NKRO_ENABLE	rules.mk	/^NKRO_ENABLE = yes           	# USB Nkey Rollover$/;"	m
+PERMISSIVE_HOLD	config.h	/^#define PERMISSIVE_HOLD$/;"	d
+QCK_LYR	keymap.c	/^	QCK_LYR,$/;"	e	enum:ctrl_keycodes	file:
+QMK_KEYS_PER_SCAN	config.h	/^#define QMK_KEYS_PER_SCAN /;"	d
+RGB Time Out	endgame-readme.md	/^### RGB Time Out$/;"	S
+RGB_DEFAULT_TIME_OUT	keymap.c	/^#define RGB_DEFAULT_TIME_OUT /;"	d	file:
+RGB_MATRIX_FRAMEBUFFER_EFFECTS	config.h	/^#define RGB_MATRIX_FRAMEBUFFER_EFFECTS$/;"	d
+RGB_TIME_OUT_MAX	keymap.c	/^#define RGB_TIME_OUT_MAX /;"	d	file:
+RGB_TIME_OUT_MIN	keymap.c	/^#define RGB_TIME_OUT_MIN /;"	d	file:
+RGB_TIME_OUT_STEP	keymap.c	/^#define RGB_TIME_OUT_STEP /;"	d	file:
+ROUT_TG	keymap.c	/^	ROUT_TG,               \/\/Timeout Toggle. Toggle idle LED time out on or off$/;"	e	enum:ctrl_keycodes	file:
+ROUT_VD	keymap.c	/^	ROUT_VD,               \/\/Timeout Value Decrease. Decrease idle time out before LED disabled$/;"	e	enum:ctrl_keycodes	file:
+ROUT_VI	keymap.c	/^	ROUT_VI,               \/\/Timeout Value Increase. Increase idle time out before LED disabled$/;"	e	enum:ctrl_keycodes	file:
+TAPPING_TERM	config.h	/^#define TAPPING_TERM /;"	d
+TAPPING_TOGGLE	keymap.c	/^#define TAPPING_TOGGLE /;"	d	file:
+TAP_HOLD_CAPS_DELAY	config.h	/^#define TAP_HOLD_CAPS_DELAY /;"	d
+TERMINAL	keymap.c	/^	TERMINAL,$/;"	e	enum:ctrl_keycodes	file:
+Tapdance Keys	endgame-readme.md	/^### Tapdance Keys$/;"	S
+Typing Layer	endgame-readme.md	/^### Typing Layer$/;"	S
+_EL	keymap.c	/^	_EL,         \/\/ KDE Layout: Shortcuts for KDE desktop using default KDE shortcuts settings$/;"	e	enum:layout_names	file:
+_FL	keymap.c	/^	_FL,         \/\/ Function Layout: The function key activated layout with default functions and/;"	e	enum:layout_names	file:
+_GL	keymap.c	/^	_GL,         \/\/ GIT Layout: GIT shortcuts and macros$/;"	e	enum:layout_names	file:
+_ML	keymap.c	/^	_ML,         \/\/ Mouse Layout: Mouse Keys and mouse movement$/;"	e	enum:layout_names	file:
+_VL	keymap.c	/^	_VL,         \/\/ VIM Layout: VIM shorcuts and macros$/;"	e	enum:layout_names	file:
+_YL	keymap.c	/^	_YL,         \/\/ Yakuake Layout: Yakuake drop-down terminal shortcuts and macros$/;"	e	enum:layout_names	file:
+clearLEDS	keymap.c	/^void clearLEDS(void) {$/;"	f	typeref:typename:void
+ctrl_keycodes	keymap.c	/^enum ctrl_keycodes {$/;"	g	file:
+g_led_config	config_led.c	/^led_config_t g_led_config={$/;"	v	typeref:typename:led_config_t
+idle_second_counter	keymap.c	/^static uint8_t idle_second_counter;     \/\/ Idle LED seconds counter, counts seconds not millis/;"	v	typeref:typename:uint8_t	file:
+idle_timer	keymap.c	/^static uint16_t idle_timer;             \/\/ Idle LED timeout timer$/;"	v	typeref:typename:uint16_t	file:
+keymaps	keymap.c	/^const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {$/;"	v	typeref:typename:const uint16_t PROGMEM[][][]
+layout_names	keymap.c	/^enum layout_names {$/;"	g	file:
+matrix_init_user	keymap.c	/^void matrix_init_user(void) {$/;"	f	typeref:typename:void
+matrix_scan_user	keymap.c	/^void matrix_scan_user(void) {$/;"	f	typeref:typename:void
+process_record_user	keymap.c	/^bool process_record_user(uint16_t keycode, keyrecord_t *record) {$/;"	f	typeref:typename:bool
+rgb_enabled_flag	keymap.c	/^bool rgb_enabled_flag;                  \/\/ Current LED state flag. If false then LED is off.$/;"	v	typeref:typename:bool
+rgb_matrix_indicators_kb	config_led.c	/^void rgb_matrix_indicators_kb(void)$/;"	f	typeref:typename:void
+rgb_matrix_indicators_user	keymap.c	/^void rgb_matrix_indicators_user(void) {$/;"	f	typeref:typename:void
+rgb_time_out_enable	keymap.c	/^bool rgb_time_out_enable;               \/\/ Idle LED toggle enable. If false then LED will not /;"	v	typeref:typename:bool
+rgb_time_out_saved_flag	keymap.c	/^led_flags_t rgb_time_out_saved_flag;    \/\/ Store LED flag before timeout so it can be restored/;"	v	typeref:typename:led_flags_t
+rgb_time_out_saved_seconds	keymap.c	/^uint16_t rgb_time_out_saved_seconds;$/;"	v	typeref:typename:uint16_t
+rgb_time_out_seconds	keymap.c	/^uint16_t rgb_time_out_seconds;          \/\/ Idle LED timeout value, in seconds not milliseconds$/;"	v	typeref:typename:uint16_t
+rgb_time_out_user_value	keymap.c	/^bool rgb_time_out_user_value;           \/\/ This holds the toggle value set by user with ROUT_T/;"	v	typeref:typename:bool
+setAllHSV	keymap.c	/^void setAllHSV(int h, int s, int v) {$/;"	f	typeref:typename:void

@@ -1,0 +1,26 @@
+Default:
+- Function keys are aliases/macros, double tap for functions
+- Capslock -> Esc
+- Double arrow for PgUp, PgDn, Home and End
+
+Utility:
+- Layer navigation - Function Row
+- Reboot/flash - PrtSc
+- Sleep - Pause
+- Lock - ScrLk
+- Record macro - Grave
+- Custom macros - Number Row
+- NKRO/6KRO - Ins/Del
+- Brightness controls - Home/End
+- Volume controls - PgUp/PgDn
+- Media controls - pause/play/next/prev/volume/mute - green
+
+Num pad and navigation:
+- RGB:
++  Numpad on left hand is __
++  Vim navigation on right is __
+
+
+Media:
+- Youtube - red
+- Spotify/generic - green
